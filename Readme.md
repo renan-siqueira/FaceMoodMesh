@@ -67,29 +67,29 @@ $ pip install -r requirements.txt
 
 3.1. Clone or download the project to your local machine:
 
-    3.1.1 Open a terminal or command prompt on your computer.
+3.1.1 Open a terminal or command prompt on your computer.
 
-    3.1.2 Navigate to the directory where you want to clone the project using the cd command. For instance:
+3.1.2 Navigate to the directory where you want to clone the project using the cd command. For instance:
 
-    ```bash
-    $ cd ~/Desktop
-    ```
+```bash
+$ cd ~/Desktop
+```
 
-    3.1.3 Run the `git clone` command followed by the project's URL:
+3.1.3 Run the `git clone` command followed by the project's URL:
 
-    ```bash
-    $ git clone https://github.com/renan-siqueira/FaceMoodMesh.git
-    ```
+```bash
+$ git clone https://github.com/renan-siqueira/FaceMoodMesh.git
+```
 
-    3.1.4 Wait as Git clones the project on your computer. Once finished, you'll see a new folder named "FaceMoodMesh" in the chosen directory.
+3.1.4 Wait as Git clones the project on your computer. Once finished, you'll see a new folder named "FaceMoodMesh" in the chosen directory.
 
-    3.1.5 Navigate to the cloned project's folder:
+3.1.5 Navigate to the cloned project's folder:
 
-    ```bash
-    $ cd FaceMoodMesh
-    ```
+```bash
+$ cd FaceMoodMesh
+```
 
-    3.1.6 From here, you can proceed with installation and configuration steps as per the project documentation.
+3.1.6 From here, you can proceed with installation and configuration steps as per the project documentation.
 
 *__Remember: you need to have Git installed on your computer to execute these commands. If you haven't yet, you can download and install it from the [official Git website](https://git-scm.com/).__*
 
